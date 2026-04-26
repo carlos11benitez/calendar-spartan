@@ -1,0 +1,10 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "types": ["@playwright/test", "node"],
+    "outDir": "./out-tsc/e2e",
+    "module": "esnext",
+    "target": "es2022"
+  },
+  "include": ["e2e/**/*.ts", "playwright.config.ts"]
+}
