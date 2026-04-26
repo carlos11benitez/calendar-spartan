@@ -2,6 +2,9 @@
 
 An accessible, responsive calendar with day / week / month views, built with **Angular 21**, **spartan-ng** and **Tailwind 4**. Events persist to `localStorage` and sync across browser tabs in real time.
 
+**Live demo: [calendar-spartan.netlify.app](https://calendar-spartan.netlify.app)**
+
+[![Live](https://img.shields.io/badge/demo-live-brightgreen)](https://calendar-spartan.netlify.app)
 [![Tests](https://img.shields.io/badge/tests-224%20passing-brightgreen)](#testing)
 [![E2E](https://img.shields.io/badge/e2e-5%20passing-brightgreen)](#testing)
 [![Lighthouse](https://img.shields.io/badge/lighthouse-a11y%20100%20·%20best%20practices%20100%20·%20seo%20100-brightgreen)](#quality-bar)
